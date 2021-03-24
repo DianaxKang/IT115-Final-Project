@@ -1,10 +1,11 @@
 # IT115-Final-Project
+
 Final Assignment IT 115
 
-# Create the following features on GitHub. The text you add can be very simple. For example, on README.md you can just say something like "This is a README.md file".
+## Follow each of the instructions below. For the assignment deliverable, create a report including the following items:
 
-README.md
-CONTRIBUTING.md
-License
-Project Page
-## On README.md and CONTRIBUTING.md, demonstrate the use of Markdown features such as headings and lists.
+URL for your repository
+Sample commands from your local repository, including a reset or a revert
+URL of your Project Page
+Screen shot of a Bug Report showing Super-linter results
+Screen shot of the test code in production on a web server (or S3). 
